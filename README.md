@@ -1,0 +1,1 @@
+# Mini-Project-26-ResizeVideoto50Percent
